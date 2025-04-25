@@ -3,7 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "studio": "bun drizzle-kit studio"
+    "studio:db1": "chmod +x ./studio-db1.sh && ./studio-db1.sh",
+    "studio:db2": "chmod +x ./studio-db2.sh && ./studio-db2.sh"
   },
   "devDependencies": {
     "@types/bun": "latest",
