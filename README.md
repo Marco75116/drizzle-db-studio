@@ -1,6 +1,6 @@
 # Drizzle DB Studio
 
-This project sets up Drizzle Studio to connect to multiple PostgreSQL databases.
+This project sets up Drizzle Studio to connect to multiple PostgreSQL databases at the same time.
 
 ## Usage
 
